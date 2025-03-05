@@ -5,5 +5,6 @@
 - Docker
 - Git
 
-**Cel zadania**
+**Cel zadania**:
 Zarządzanie branchami i tworzenie pliku 
+aaaaa
